@@ -1,0 +1,23 @@
+export const teams = [
+    "-",
+    "Arsenal", 
+    "Aston Villa", 
+    "Bournemouth", 
+    "Brentford", 
+    "Brighton",
+    "Chelsea",
+    "Crystal Palace",
+    "Everton",
+    "Fulham",
+    "Leicester",
+    "Leeds",
+    "Liverpool",
+    "Man City",
+    "Man Utd",
+    "Newcastle",
+    "Nott'm Forest",
+    "Southampton",
+    "Spurs",
+    "West Ham",
+    "Wolves"
+];
